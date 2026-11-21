@@ -55,10 +55,10 @@ Drainage| Blocked drains
 
 Each complaint receives one of four severity levels:
 
-- 🟢 Low
-- 🟡 Medium
-- 🟠 High
-- 🔴 Critical
+-  Low
+-  Medium
+-  High
+-  Critical
 
 5. AI-Generated Explanation
 
